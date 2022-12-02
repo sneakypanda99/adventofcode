@@ -24,7 +24,6 @@ const calculateScore = (listOfMatches, part_two=false) => {
         else if (part_two && matchToInt[1] == "1") {winCases.forEach(x => {if(x[1]==matchToInt[0]){matchToInt=(x[1]+x[0])}})} 
         if(winCases.includes(matchToInt)){score+=6}
         else if(matchToInt[0]==matchToInt[1]){score+=3}
-        console.log(opponentChoice, elfChoice, matchToInt)
         score+=parseInt(matchToInt[1])
     });
 
@@ -34,4 +33,5 @@ const calculateScore = (listOfMatches, part_two=false) => {
 //#############################
 // ENTRY
 //#############################
+console.log(calculateScore(data))
 console.log(calculateScore(data, part_two=true))
