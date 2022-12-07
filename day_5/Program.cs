@@ -29,8 +29,6 @@
             {
                 Console.WriteLine(line);
                 List<string> parsed = new List<string>(line.Split(' ', StringSplitOptions.RemoveEmptyEntries));
-                int counter2 = 1;
-
                 List<string> subList = arr[(Int32.Parse(parsed[3])) - 1].GetRange(0, Int32.Parse(parsed[1]));
                 //subList.Reverse(); Part 1
 
