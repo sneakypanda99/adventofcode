@@ -1,36 +1,6 @@
 ﻿# Advent Of Code :christmas_tree: :santa: :gift:
 
-Hi! This is my **Advent of Code** repo. This year i decided to add an extra difficulty layer, namely, completing every day with different languages. Naturally, I'm not fluent in all the languages mentioned below, hence it will indeed be challenging.
-
-## Days, languages and completion status
-
-| Day | Language               | Complete? |
-| --- | ---------------------- | --------- |
-| 1   | `Python`               | True      |
-| 2   | `Javascript`           | True      |
-| 3   | `PHP`                  | True      |
-| 4   | `Python (failed bash)` | True      |
-| 5   | `C#`                   | True      |
-| 6   | `C++`                  | False     |
-| 7   | `Ruby`                 | False     |
-| 8   | `Java`                 | False     |
-| 9   | `C`                    | False     |
-| 10  | `Perl`                 | False     |
-| 11  | `Scala`                | False     |
-| 12  | `Lua`                  | False     |
-| 13  | `Rust`                 | False     |
-| 14  | `Swift`                | False     |
-| 15  | `Kotlin`               | False     |
-| 16  | `Python`               | False     |
-| 17  | `Javascript`           | False     |
-| 18  | `PHP`                  | False     |
-| 19  | `Bash`                 | False     |
-| 20  | `C#`                   | False     |
-| 21  | `C++`                  | False     |
-| 22  | `Ruby`                 | False     |
-| 23  | `Java`                 | False     |
-| 24  | `C`                    | False     |
-| 25  | `Perl`                 | False     |
+Hi! This is my **Advent of Code** repo.
 
 ## About Advent of Code
 
